@@ -21,7 +21,7 @@
   "Rules": [
     {
       "Extensions": [ ".jpg", ".jpeg", ".png", ".gif", ".bmp", ".avif", ".avifs" ],
-      "Destination": "Images" // будет сохранено в C:/Users/{username}/Downloads/Images
+      "Destination": "Images" // будет сохранено в C:/Users/username/Downloads/Images
     },
     {
       "Extensions": [ ".mp4", ".avi", ".mkv", ".mov", ".wmv" ],

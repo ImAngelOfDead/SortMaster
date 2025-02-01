@@ -1,0 +1,42 @@
+Log started: 01.02.2025 12:33:21
+01.02.2025 12:33:21: Загрузка плагинов (заготовка).
+01.02.2025 12:33:21: Начало сортировки: Source='C:\Users\nulll\Downloads', DryRun=False, Recursive=False, Interactive=False
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\1876888570678668ae84229.avifs' в 'C:\Users\nulll\Downloads\Images\1876888570678668ae84229.avifs'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\884c1a37-a1a3-488f-a080-984fc7ccaafe.mp4' в 'C:\Users\nulll\Downloads\Videos\884c1a37-a1a3-488f-a080-984fc7ccaafe.mp4'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\AyuGram.exe' в 'C:\Users\nulll\Downloads\Installers\AyuGram.exe'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\blazor.boot.json' в 'C:\Users\nulll\Downloads\Documents\blazor.boot.json'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\ChatGPT Installer.exe' в 'C:\Users\nulll\Downloads\Installers\ChatGPT Installer.exe'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\com.blinkmap-114.apk_Decompiler.com.zip' в 'C:\Users\nulll\Downloads\Archives\com.blinkmap-114.apk_Decompiler.com.zip'
+01.02.2025 12:33:21: Нет подходящего правила для файла 'C:\Users\nulll\Downloads\desktop.ini'.
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\DiscordPTBSetup.exe' в 'C:\Users\nulll\Downloads\Installers\DiscordPTBSetup.exe'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\DiscordSetup (1).exe' в 'C:\Users\nulll\Downloads\Installers\DiscordSetup (1).exe'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\DiscordSetup.exe' в 'C:\Users\nulll\Downloads\Installers\DiscordSetup.exe'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\Docker Desktop Installer.exe' в 'C:\Users\nulll\Downloads\Installers\Docker Desktop Installer.exe'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\dotnet-runtime-8.0.12-win-x64.exe' в 'C:\Users\nulll\Downloads\Installers\dotnet-runtime-8.0.12-win-x64.exe'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\dotnet-sdk-7.0.410-win-x64.exe' в 'C:\Users\nulll\Downloads\Installers\dotnet-sdk-7.0.410-win-x64.exe'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\dotnet-sdk-8.0.405-win-x64.exe' в 'C:\Users\nulll\Downloads\Installers\dotnet-sdk-8.0.405-win-x64.exe'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\Fira_Code_v6.2.zip' в 'C:\Users\nulll\Downloads\Archives\Fira_Code_v6.2.zip'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\heart.exe' в 'C:\Users\nulll\Downloads\Installers\heart.exe'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\How_to_Setup_VPN_or_Proxy.txt' в 'C:\Users\nulll\Downloads\Documents\How_to_Setup_VPN_or_Proxy.txt'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\imgui-external-dx9-base-main.zip' в 'C:\Users\nulll\Downloads\Archives\imgui-external-dx9-base-main.zip'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\index.html' в 'C:\Users\nulll\Downloads\Documents\index.html'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\Install.exe' в 'C:\Users\nulll\Downloads\Installers\Install.exe'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\jadx-gui-1.5.1-win.zip' в 'C:\Users\nulll\Downloads\Archives\jadx-gui-1.5.1-win.zip'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\LM-Studio-0.3.9-3-x64.exe' в 'C:\Users\nulll\Downloads\Installers\LM-Studio-0.3.9-3-x64.exe'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\log.txt' в 'C:\Users\nulll\Downloads\Documents\log.txt'
+01.02.2025 12:33:21: Ошибка при перемещении файла 'C:\Users\nulll\Downloads\log.txt': The process cannot access the file because it is being used by another process.
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\photo_2025-01-05_13-06-55.jpg' в 'C:\Users\nulll\Downloads\Images\photo_2025-01-05_13-06-55.jpg'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\SortingReport.html' в 'C:\Users\nulll\Downloads\Documents\SortingReport.html'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\SortingReport_20250201123316272.html' в 'C:\Users\nulll\Downloads\Documents\SortingReport_20250201123316272.html'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\sqlmapproject-sqlmap-1.9-1-g0f9a1c8.zip' в 'C:\Users\nulll\Downloads\Archives\sqlmapproject-sqlmap-1.9-1-g0f9a1c8.zip'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\Ubuntu.zip' в 'C:\Users\nulll\Downloads\Archives\Ubuntu.zip'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\VisualGDB-6.0r6-trial.msi' в 'C:\Users\nulll\Downloads\Installers\VisualGDB-6.0r6-trial.msi'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\Vividl-v.0.8.0.zip' в 'C:\Users\nulll\Downloads\Archives\Vividl-v.0.8.0.zip'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\WebNotes-master.zip' в 'C:\Users\nulll\Downloads\Archives\WebNotes-master.zip'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\YouTube-Music-3.7.2.exe' в 'C:\Users\nulll\Downloads\Installers\YouTube-Music-3.7.2.exe'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\youtube-music-dl.zip' в 'C:\Users\nulll\Downloads\Archives\youtube-music-dl.zip'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\YoutubeDownloader.Bare.win-x64.zip' в 'C:\Users\nulll\Downloads\Archives\YoutubeDownloader.Bare.win-x64.zip'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\YoutubeExplode-master.zip' в 'C:\Users\nulll\Downloads\Archives\YoutubeExplode-master.zip'
+01.02.2025 12:33:21: Перемещение 'C:\Users\nulll\Downloads\ZAP_2_16_0_windows.exe' в 'C:\Users\nulll\Downloads\Installers\ZAP_2_16_0_windows.exe'
+01.02.2025 12:33:21: Сортировка завершена.
+01.02.2025 12:33:21: HTML-отчет с результатами сортировки сгенерирован: C:\Users\nulll\Downloads\SortingReport.html
